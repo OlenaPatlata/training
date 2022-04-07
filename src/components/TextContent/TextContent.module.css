@@ -1,0 +1,27 @@
+.imgStyle {
+  width: 15px;
+  height: 15px;
+  display: block;
+}
+.wrapper {
+  display: flex;
+  margin-top: auto;
+  align-items: center;
+  margin-right: 24px;
+}
+
+.lower {
+  font-family: "Monserrat";
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.4px;
+}
+
+.upper {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 124;
+  line-height: 1.71;
+  letter-spacing: 1.25px;
+}
